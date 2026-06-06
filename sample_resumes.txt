@@ -1,0 +1,124 @@
+========================================
+RESUME 1 — Data Scientist
+========================================
+
+Sarah Johnson
+Data Scientist
+
+New York, NY - sarah.johnson@outlook.com
+
+WORK EXPERIENCE
+
+Senior Data Scientist
+Netflix - Los Gatos, CA
+March 2021 to Present
+Building recommendation systems and A/B testing frameworks.
+
+Data Scientist
+IBM Watson - New York, NY
+July 2018 to February 2021
+Developed NLP pipelines for enterprise clients.
+
+Junior Data Analyst
+Deloitte - Chicago, IL
+June 2016 to June 2018
+
+EDUCATION
+
+Master of Science in Statistics
+Columbia University
+2016
+
+Bachelor of Arts in Mathematics
+University of Michigan
+2014
+
+SKILLS
+
+Python, R, SQL, Spark, PyTorch, TensorFlow, Scikit-learn, Pandas, Tableau, A/B Testing, NLP, Computer Vision, Docker, AWS SageMaker
+
+EXPERIENCE
+
+5 years of experience in data science and machine learning
+
+
+========================================
+RESUME 2 — Fresh Graduate
+========================================
+
+Ahmed Al-Rashid
+Riyadh, Saudi Arabia - ahmed.rashid99@gmail.com
+
+OBJECTIVE
+
+Recent graduate seeking an entry-level software development position.
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+King Saud University
+2024
+
+High School Diploma
+Al-Faisal International School
+2020
+
+PROJECTS
+
+E-commerce Web Application - Built a full-stack online store using React and Node.js
+Chat Bot - Developed a customer service chatbot using Python and NLTK
+
+SKILLS
+
+HTML, CSS, JavaScript, React, Node.js, Python, MySQL, Git, Linux
+
+CERTIFICATIONS
+
+AWS Certified Cloud Practitioner
+Google IT Support Professional Certificate
+
+
+========================================
+RESUME 3 — Senior Executive
+========================================
+
+Margaret Chen
+Chief Technology Officer
+
+Seattle, WA - m.chen@techcorp.com
+
+WORK EXPERIENCE
+
+Chief Technology Officer
+CloudScale Inc. - Seattle, WA
+January 2020 to Present
+
+Vice President of Engineering
+Microsoft - Redmond, WA
+April 2015 to December 2019
+
+Engineering Director
+Oracle - San Francisco, CA
+March 2010 to March 2015
+
+Senior Software Engineer
+Intel - Santa Clara, CA
+June 2005 to February 2010
+
+EDUCATION
+
+PhD in Computer Science
+MIT
+2005
+
+Bachelor of Science in Electrical Engineering
+Caltech
+2000
+
+SKILLS
+
+Cloud Architecture, System Design, Team Leadership, Strategic Planning, Python, Java, C++, Kubernetes, Azure, AWS, Agile, DevOps
+
+ADDITIONAL INFORMATION
+
+20 years of experience in technology leadership

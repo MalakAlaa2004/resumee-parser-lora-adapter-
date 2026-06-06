@@ -1,0 +1,39 @@
+ run the GUI and the backend server, you just need to double-click the run_gui.bat file in your d:\project nlu\Project folder using your Windows File Explorer.
+
+This will automatically:
+
+Start a terminal window.
+Check for the required packages (flask and flask-cors).
+Load the model on your GPU.
+Automatically open your web browser with the GUI ready to use!
+Alternatively, I can start it for you right now directly from the terminal. 
+
+The GUI is a plain HTML file — **no installation, no server needed**. Just:
+
+---
+
+### Option 1 — Double-click (simplest)
+Open File Explorer → navigate to `d:\project nlu\Project\` → double-click **`app.html`**
+
+It opens directly in your default browser. ✅
+
+---
+
+### Option 2 — From VS Code
+Since `app.html` is already open in your editor, press **`Alt + B`** (or right-click the tab → *Open in Default Browser*).
+
+---
+
+### Option 3 — From terminal
+```powershell
+start "d:\project nlu\Project\app.html"
+```
+
+---
+
+> **Note:** The GUI is a **standalone demo** — it simulates the model output for the 4 sample resumes and does basic heuristic parsing for custom resumes you paste in. It does **not** actually call `demo.py` or load the real model (that would require a Python backend server).
+>
+> To run the **real model**, use the terminal as before:
+> ```bash
+> python demo.py
+> ```
